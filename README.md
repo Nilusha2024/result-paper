@@ -1,12 +1,3 @@
-
-php artisan jwt:generate
-Run the database migrations (Set the database connection in .env before migrating)
-
-php artisan migrate
-Start the local development server
-
-php artisan serve
-
 # result-paper
 
 ### prerequisites
